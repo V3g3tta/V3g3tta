@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>EJERCICIO JESUATH</title>
+	<title>EJERCICIO JESUATH ALMARIO</title>
 </head>
 <H1>BANCO</H1>
 
