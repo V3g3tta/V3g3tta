@@ -3,7 +3,7 @@
 <head>
 	<title>EJERCICIO JESUATH ALMARIO</title>
 </head>
-<H1>BANCO</H1>
+<H1>BANCO BBVA</H1>
 
 <body>
     <form action="RECIBIDO.PHP" method="POST" >
